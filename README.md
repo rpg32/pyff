@@ -1,0 +1,2 @@
+# pyff
+Fantasy football library
